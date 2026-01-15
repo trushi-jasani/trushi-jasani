@@ -1,5 +1,5 @@
 # Hi 👋, I'm Trushi Jasani  
-### Computer Engineering Student | Full-Stack Developer | Backend & System Enthusiast  
+### Information Technology Student | Full-Stack Developer | Backend & System Enthusiast  
 
 🚀 Passionate about building **scalable web apps, backend systems, and optimized databases**.  
 💡 Strong interest in **MERN Stack, System Design, and Data Structures**.
