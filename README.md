@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=trushi-jasani&color=blue)
 
 
 # Hi 👋, I'm Trushi Jasani  
