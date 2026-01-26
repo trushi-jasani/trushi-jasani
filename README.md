@@ -127,8 +127,7 @@ A full-stack **multi-tenant building & facility management system**.
 
 ## 📫 Connect With Me  
 - 💻 GitHub: https://github.com/trushi-jasani  
-- 📧 Email: your-email@example.com  
-
+- 📧 Email: jasanitrushi@gmail.com
 ---
 
 ⚡ *Building systems that scale, perform, and last.*
