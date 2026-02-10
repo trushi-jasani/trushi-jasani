@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=trushi-jasani&color=blue)
-
 
 # Hi 👋, I'm Trushi Jasani  
 ### Information Technology Student | Full-Stack Developer | Backend & System Enthusiast  
