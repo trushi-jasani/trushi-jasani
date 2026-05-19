@@ -23,41 +23,31 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+<h1 align="center">🚀 Tech Stack</h1>
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+%26+System+Enthusiast;Java+%7C+MERN+Developer;Open+Source+Contributor" />
 
----
+<br><br>
 
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,php,react,html,css,nodejs,express,mysql,postgres,mongodb,git,github" />
+
+</div>
 
 ---
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
 
+| 💻 Category | ⚡ Technologies |
+|---|---|
+| 🧠 Languages | C++ • C • Java • JavaScript • PHP • SQL |
+| 🎨 Frontend | React • HTML5 • CSS3 |
+| ⚙️ Backend | Node.js • Express.js • Spring MVC • JDBC |
+| 🗄️ Databases | MySQL • PostgreSQL • MongoDB |
+| 🛠 Tools | Git • GitHub • NetBeans • MongoDB Compass |
 
----
-
-### 🛠 Tools & Platforms  
-![NetBeans](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
-
-
----
+</div>
 
 ## 🚀 Specialized Skills  
 - Full-Stack Web Development  
