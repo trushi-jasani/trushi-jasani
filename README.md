@@ -9,7 +9,7 @@
 
 ## 🎓 Education  
 - **B.Tech in Information Technology**  
-- **CGPA : 9.86/10**
+- **CGPA : 9.78/10**
 
 ---
 ## 🔧 Technical Skills  
